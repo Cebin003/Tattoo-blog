@@ -1,0 +1,1615 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.surface-pro-8-17-HaF {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+}
+.surface-pro-8-17-HaF .group-86-soM {
+  box-sizing: border-box;
+  padding: 6rem 15.2rem 2.4rem 15.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .group-77-nqm {
+  margin: 1.5rem 6.9rem 1.5rem 0rem;
+  height: calc(100% - 3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .group-77-nqm .tattoo-FzF {
+  margin-right: 1.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9375;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Henny Penny, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .group-77-nqm .tales-4go {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.9375;
+  letter-spacing: 0.064rem;
+  font-family: Henny Penny, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .frame-10-79H {
+  margin-right: 7.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 3.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.22deg, rgba(0, 224, 255, 0.8500000238) 1.28%, rgba(0, 72, 82, 0.6899999976) 100%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .frame-10-79H .home-nWK {
+  margin-right: 8.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .frame-10-79H .artists-R3V {
+  margin-right: 8.4rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .frame-10-79H .shop-VZ9 {
+  margin-right: 8.3rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .frame-10-79H .blog-M5Z {
+  margin-right: 8.4rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .frame-10-79H .about-us-S71 {
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-tzrf-z9D .group-75-oLs {
+  width: 15rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(90.53deg, rgba(0, 224, 255, 0.8500000238) 0%, rgba(0, 72, 82, 0.6899999976) 100%, rgba(0, 240, 255, 0.4399999976) 100%);
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ {
+  margin: 0rem 39.9rem 0rem 12.5rem;
+  width: calc(100% - 52.4rem);
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ .group-79-tf9 {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding: 0.8rem 9.9rem 0.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: #121212;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ .group-79-tf9 .vector-NaK {
+  margin: 0rem 1.2rem 0.036rem 0rem;
+  width: 1.7rem;
+  height: 2.1636rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ .group-79-tf9 .ambattur-chennai-pBR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ .group-80-eRM {
+  box-sizing: border-box;
+  padding: 0.8rem 27rem 0.7rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  background-color: #121212;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ .group-80-eRM .vector-u6P {
+  margin: 0rem 2.097rem 0.197rem 0rem;
+  width: 2.003rem;
+  height: 2.003rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-86-soM .auto-group-5amm-RmZ .group-80-eRM .search-aCX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-116-CUo {
+  box-sizing: border-box;
+  padding: 1.5rem 49.4rem 1.5rem 52.8rem;
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90.53deg, rgba(0, 224, 255, 0.8500000238) 0%, rgba(0, 72, 82, 0.6899999976) 100%, rgba(0, 240, 255, 0.4399999976) 100%);
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-116-CUo .group-108-pFH {
+  margin-right: 2.0999rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-116-CUo .group-108-pFH .tales-plus-jd9 {
+  margin-right: 2.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #ff1212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-116-CUo .group-108-pFH .up-to-15-off-on-all-services-mpj {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.048rem;
+  color: #fff400;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .group-116-CUo .caretright-TSf {
+  margin-top: 0.0001rem;
+  width: 1.2001rem;
+  height: 2.2001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .component-3-smH {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  column-gap: 33.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .component-3-smH .rectangle-125-7vX {
+  width: 151.2rem;
+  height: 37rem;
+  position: relative;
+  background-size: 100% 272.466%;
+  background-position: 0 -48.9062rem;
+  background-image: url('../assets/rectangle-125.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .component-3-smH .rectangle-126-mVH {
+  width: 151.2rem;
+  height: 37rem;
+  position: relative;
+  background-size: 100% 272.394%;
+  background-position: 0 -50.8928rem;
+  background-image: url('../assets/rectangle-126.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .component-3-smH .rectangle-127-2RD {
+  width: 151.2rem;
+  height: 37rem;
+  position: relative;
+  background-size: 100% 270.47%;
+  background-position: 0 -51.537rem;
+  background-image: url('../assets/rectangle-127.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs {
+  box-sizing: border-box;
+  padding: 4rem 15.2rem 0rem 15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-xhjv-6Jb {
+  margin: 0rem 0rem 4.4rem 0.2rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-xhjv-6Jb .nearest-tattoo-shop-AZM {
+  margin-right: 72.2rem;
+  font-size: 4.4rem;
+  font-weight: 600;
+  line-height: 1.0227272727;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-xhjv-6Jb .see-all-p87 {
+  margin-top: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.0714285714;
+  color: #ff7a00;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 {
+  margin: 0rem 0rem 4rem 0.2rem;
+  height: 38.3rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .rectangle-68-djm {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-f6f9-ddH {
+  margin-right: 1.9rem;
+  width: 14.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-f6f9-ddH .h2o-tattoo-studio-aaT {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-f6f9-ddH .auto-group-j2hu-DtK {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-f6f9-ddH .auto-group-j2hu-DtK .vector-x5D {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-f6f9-ddH .auto-group-j2hu-DtK .ambattur-chennai-obd {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .vector-rZu {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-eygf-LEB {
+  width: 6.6rem;
+  height: 3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-eygf-LEB .item-49-T3u {
+  width: 2.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-93-ZV1 .group-82-vTy .auto-group-eygf-LEB .item-300-FkT {
+  width: 3.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .rectangle-68-Tzw {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .auto-group-f9g3-UQF {
+  margin-right: 2.4rem;
+  width: 14.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .auto-group-f9g3-UQF .smiley-tattoo-studio-wod {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .auto-group-f9g3-UQF .auto-group-jvqh-EXq {
+  margin-right: 1.8rem;
+  width: calc(100% - 1.8rem);
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .auto-group-f9g3-UQF .auto-group-jvqh-EXq .vector-udy {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .auto-group-f9g3-UQF .auto-group-jvqh-EXq .avadi-chennai-YS3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .vector-dyH {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .item-48-VEo {
+  margin-right: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-95-Nib .group-82-mEw .item-180-yvf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .rectangle-68-rNB {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .auto-group-yhry-sHH {
+  margin-right: 0.7rem;
+  width: 15.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .auto-group-yhry-sHH .inkaholik-tattoo-studio-8yu {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .auto-group-yhry-sHH .auto-group-ues1-Ry1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .auto-group-yhry-sHH .auto-group-ues1-Ry1 .vector-kkP {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .auto-group-yhry-sHH .auto-group-ues1-Ry1 .annanagar-chennai-zej {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .vector-V5h {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .item-47-aN3 {
+  margin-right: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-97-wW7 .group-82-Z1h .item-124-2zj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .rectangle-68-MQj {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-wfm1-jw5 {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-wfm1-jw5 .james-tattooing-TMH {
+  margin-right: 5.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-wfm1-jw5 .vector-7wd {
+  margin: 0.047rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-wfm1-jw5 .item-49-b67 {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-wfm1-jw5 .item-120-5X5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-qbvz-jbd {
+  margin-right: 6.3rem;
+  width: calc(100% - 6.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-qbvz-jbd .vector-36X {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-svs9-JZ5 .frame-99-3ew .group-82-c5m .auto-group-qbvz-jbd .thirumangalam-madurai-7s5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm {
+  margin: 0rem 0rem 4rem 0.2rem;
+  height: 38.3rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .rectangle-68-3Xm {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  position: relative;
+  background-size: 158.343% 100%;
+  background-position: -5.3488rem 0;
+  background-image: url('../assets/rectangle-68-ZAf.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .auto-group-bvpm-Ycw {
+  margin-right: 1.1rem;
+  width: 15.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .auto-group-bvpm-Ycw .ink-tales-tattoos-fBm {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .auto-group-bvpm-Ycw .auto-group-fqyr-kj1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .auto-group-bvpm-Ycw .auto-group-fqyr-kj1 .vector-Srj {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .auto-group-bvpm-Ycw .auto-group-fqyr-kj1 .tambaram-chennai-K9q {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .vector-RCs {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .item-43-GDV {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-94-jmy .group-82-SK1 .item-208-xs1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .rectangle-68-etF {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .auto-group-er7q-rUX {
+  margin-right: 3.1rem;
+  width: 13.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .auto-group-er7q-rUX .tribal-tattoo-studio-vjH {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .auto-group-er7q-rUX .auto-group-cqqf-DiP {
+  margin-right: 1.1rem;
+  width: calc(100% - 1.1rem);
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .auto-group-er7q-rUX .auto-group-cqqf-DiP .vector-XUB {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .auto-group-er7q-rUX .auto-group-cqqf-DiP .avadi-chennai-D67 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .vector-sgT {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .item-48-Mbd {
+  margin-right: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-96-LsZ .group-82-wsM .item-180-3zF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .rectangle-68-GP9 {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  position: relative;
+  background-size: 168.494% 100%;
+  background-position: -9.9651rem 0;
+  background-image: url('../assets/rectangle-68-F4K.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .auto-group-vmd1-KEw {
+  margin-right: 1.4rem;
+  width: 15.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .auto-group-vmd1-KEw .divine-tattoos-QXH {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .auto-group-vmd1-KEw .auto-group-mhxm-r8P {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .auto-group-vmd1-KEw .auto-group-mhxm-r8P .vector-a4P {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .auto-group-vmd1-KEw .auto-group-mhxm-r8P .ayyapakkam-trichy-ohq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .vector-gWj {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .item-47-xj9 {
+  margin-right: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-98-B6o .group-82-1V9 .item-124-pWT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd {
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 27.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .rectangle-68-GWs {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .auto-group-fvix-g4o {
+  margin-right: 3.3rem;
+  width: 13.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .auto-group-fvix-g4o .alien-tattoo-studio-x2K {
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .auto-group-fvix-g4o .auto-group-wrz5-q67 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .auto-group-fvix-g4o .auto-group-wrz5-q67 .vector-ZH1 {
+  margin: 0rem 0.8rem 0.073rem 0rem;
+  width: 1.2rem;
+  height: 1.5273rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .auto-group-fvix-g4o .auto-group-wrz5-q67 .wayanad-kerala-bUb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .vector-gkw {
+  margin: 0.8rem 0.498rem 0rem 0rem;
+  width: 1.502rem;
+  height: 1.4472rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .item-49-Zpj {
+  margin-right: 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-e559-sjm .frame-100-Ayd .group-82-N47 .item-120-qGT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-i8wb-Sn3 {
+  margin: 0rem 0rem 4.4rem 0.2rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-i8wb-Sn3 .trending-categories-izT {
+  margin-right: 72.1rem;
+  font-size: 4.4rem;
+  font-weight: 600;
+  line-height: 1.0227272727;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-i8wb-Sn3 .see-all-P51 {
+  margin-top: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.0714285714;
+  color: #ff7a00;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 {
+  margin: 0rem 0rem 7.4rem 0.2rem;
+  height: 34.9rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-101-K75 {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-101-K75 .rectangle-68-zU7 {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-101-K75 .engine-tattoo-design-grj {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-103-w1y {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-103-w1y .rectangle-68-d9h {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-103-w1y .samurai-tattoo-design-jCj {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-105-mv7 {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-105-mv7 .rectangle-68-rwZ {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-105-mv7 .car-tattoo-design-m2w {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-107-CP9 {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-107-CP9 .rectangle-68-v4F {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-k2m5-4S3 .frame-107-CP9 .wolf-tattoo-design-yoD {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R {
+  margin: 0rem 0rem 6rem 0.2rem;
+  height: 34.9rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-102-gb9 {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-102-gb9 .rectangle-68-aRd {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  position: relative;
+  background-size: 158.343% 100%;
+  background-position: -8.139rem 0.186rem;
+  background-image: url('../assets/rectangle-68-eZV.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-102-gb9 .girl-tattoo-design-RSF {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-104-RqZ {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-104-RqZ .rectangle-68-kN3 {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-104-RqZ .cartoon-tattoo-design-eTR {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-106-5od {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-106-5od .rectangle-68-aEb {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  position: relative;
+  background-size: 168.494% 100%;
+  background-position: -7.5134rem 0.1362rem;
+  background-image: url('../assets/rectangle-68-pZd.png');
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-106-5od .joker-tattoo-design-QjR {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-108-SAK {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(153.24deg, rgba(0, 224, 255, 0.6000000238) 0%, rgba(0, 72, 82, 0.6000000238) 100%);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-108-SAK .rectangle-68-Wvs {
+  margin-bottom: 1.6rem;
+  width: 25.2rem;
+  height: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-zxp9-R9R .frame-108-SAK .d-tattoo-design-pAs {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z {
+  width: 100%;
+  height: 46.4rem;
+  position: relative;
+  border-top: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .rectangle-128-73V {
+  width: 120.8rem;
+  height: 46.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #121212;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-117-Cqd {
+  width: 22.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 39.4rem;
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-117-Cqd .tattoo-tyM {
+  margin-right: 0.7rem;
+  font-size: 4.4rem;
+  font-weight: 500;
+  line-height: 0.6818181818;
+  letter-spacing: 0.088rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-117-Cqd .tales-Wzj {
+  font-size: 4.4rem;
+  font-weight: 500;
+  line-height: 0.6818181818;
+  letter-spacing: 0.088rem;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-119-2CP {
+  width: 23.8rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 2.4rem;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-119-2CP .company-i5D {
+  margin-bottom: 1.6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-119-2CP .tattootalesgmailcom-xkF {
+  margin-bottom: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-119-2CP .about-EBy {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq {
+  width: 32.7rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 88.3rem;
+  top: 2.4rem;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP {
+  margin: 0rem 0.8rem 1.6rem 0rem;
+  width: calc(100% - 0.8rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP .the-Ejh {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP .auto-group-9zcf-w8K {
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP .auto-group-9zcf-w8K .group-118-3SF {
+  margin: 0.5rem 1.2rem 0.5rem 0rem;
+  height: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP .auto-group-9zcf-w8K .group-118-3SF .tattoo-tSs {
+  margin-right: 1.2rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.9375;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP .auto-group-9zcf-w8K .group-118-3SF .tales-AQP {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 0.9375;
+  letter-spacing: 0.064rem;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .auto-group-qt6w-NxP .auto-group-9zcf-w8K .app-2hV {
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-121-isq .join-millions-of-people-looking-to-find-tattoo-inspiration-discover-artists-and-studios-and-easily-book-tattoo-appointments-KwV {
+  margin-left: 0.2rem;
+  max-width: 32.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-120-7sM {
+  width: 21rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 56.7rem;
+  top: 2.4rem;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-120-7sM .legal-Yxf {
+  margin-bottom: 1.6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-120-7sM .terms-conditions-FMH {
+  margin: 0rem 0rem 1.2rem 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-120-7sM .privacy-policy-K6F {
+  margin-left: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-122-ZWP {
+  width: 11.5rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-122-ZWP .explore-eGw {
+  margin-bottom: 1.6rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-122-ZWP .artist-LQf {
+  margin-bottom: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-122-ZWP .blog-Pdq {
+  margin-bottom: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.surface-pro-8-17-HaF .auto-group-ytlf-FYs .auto-group-agtz-r7Z .group-122-ZWP .shop-VB5 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}

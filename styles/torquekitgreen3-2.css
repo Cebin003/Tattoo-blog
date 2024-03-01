@@ -1,0 +1,88 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 54rem;
+}.torquekitgreen3-2-hBD {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.torquekitgreen3-2-hBD .property-1default-C7y {
+  margin-bottom: 2rem;
+  width: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.torquekitgreen3-2-hBD .property-1default-C7y .torquekitgreen3-2-WuM {
+  width: 50rem;
+  height: 48.4rem;
+  position: relative;
+  background-size: 100% 103.306%;
+  background-position: -0rem -1.6rem;
+  background-image: url('../assets/torquekitgreen3-2-t2b.png');
+}
+.torquekitgreen3-2-hBD .property-1variant2-ugb {
+  box-sizing: border-box;
+  padding: 21.7rem 0rem 17.7rem 3.6rem;
+  width: 100%;
+  height: 48.4rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-size: 100% 103.306%;
+  background-position: -0rem -1.6rem;
+  background-image: url('../assets/torquekitgreen3-2-bg.png');
+  flex-shrink: 0;
+}
+.torquekitgreen3-2-hBD .property-1variant2-ugb .auto-group-mfub-aXq {
+  margin-right: 29.8rem;
+  box-sizing: border-box;
+  padding: 2.2rem 3.3rem 2.217rem 3.2rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  flex-shrink: 0;
+}
+.torquekitgreen3-2-hBD .property-1variant2-ugb .auto-group-mfub-aXq .vector-Tbd {
+  width: 2.5rem;
+  height: 4.5831rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.torquekitgreen3-2-hBD .property-1variant2-ugb .auto-group-7drr-K83 {
+  box-sizing: border-box;
+  padding: 2.2rem 3.3rem 2.217rem 3.2rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  flex-shrink: 0;
+}
+.torquekitgreen3-2-hBD .property-1variant2-ugb .auto-group-7drr-K83 .vector-ccw {
+  width: 2.5rem;
+  height: 4.5831rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.torquekitgreen3-2-hBD .property-1variant2-ugb .property-1variant2-ugb-bg {
+  width: 50rem;
+  height: 48.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:04c31cd46133366654a5b73383bc82324c4a312d');
+}

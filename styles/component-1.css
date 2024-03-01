@@ -1,0 +1,976 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 494.2rem;
+}.component-1-9cj {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 1.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-1-9cj .property-1default-y5y {
+  margin-left: 0.3rem;
+  box-sizing: border-box;
+  padding-right: 11.6rem;
+  width: calc(100% - 0.3rem);
+  height: 32.9rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 {
+  box-sizing: border-box;
+  padding: 1.7rem 6.2rem 1.1rem 11rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm {
+  margin-right: 7.8rem;
+  width: 151.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .rectangle-83-y7u {
+  width: 151.2rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #d9d9d9;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product-plain-studio-background1258-63884-2-26B {
+  width: 151.2rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .removebg-preview-2-etF {
+  width: 151.2rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .group-89-A5u {
+  width: 35rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 5.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .group-89-A5u .hurry--CHV {
+  margin-bottom: 3.2rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #ffffff;
+  font-family: Kavoon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .group-89-A5u .sales-end-today-fwm {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .group-89-A5u .grab-deals-before-its-over-8KZ {
+  margin-bottom: 2.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .group-89-A5u .frame-96-bD9 {
+  margin: 0rem 9.5rem 0rem 9.6rem;
+  width: calc(100% - 19.1rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .online-shopping-day-sale-banner87202-1081-removebg-preview-3-vej {
+  width: 26rem;
+  height: 24.6071rem;
+  position: relative;
+  left: 20rem;
+  top: 2.7rem;
+  background-size: 206.07% 130.641%;
+  background-position: -1.7444rem -4.1976rem;
+  background-image: url('../assets/online-shopping-day-sale-banner87202-1081-removebg-preview-3-ykb.png');
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-90-sKm .online-shopping-day-sale-banner87202-1081-removebg-preview-4-v2T {
+  width: 26rem;
+  height: 24.6071rem;
+  position: relative;
+  left: 105.2rem;
+  top: 2.7rem;
+  background-size: 206.07% 130.641%;
+  background-position: -1.7444rem -4.1976rem;
+  background-image: url('../assets/online-shopping-day-sale-banner87202-1081-removebg-preview-4-Dyq.png');
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M {
+  box-sizing: border-box;
+  padding: 0.1rem 24rem 0.1rem 26.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-k4dm-xtF {
+  margin: 0rem 3.095rem 0.514rem 0rem;
+  width: 26.6052rem;
+  height: 29.3862rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-k4dm-xtF .stilo-tattoo-pen-pearly-pink-removebg-preview-1-rTq {
+  width: 24.1631rem;
+  height: 29.3862rem;
+  position: relative;
+  left: 2.4421rem;
+  top: 0;
+  background-size: 146.823% 135.238%;
+  background-position: -4.1352rem -5.7254rem;
+  background-image: url('../assets/stilo-tattoo-pen-pearly-pink-removebg-preview-1-ZxB.png');
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-k4dm-xtF .stilo-tattoo-pen-pearly-pink-removebg-preview-2-EzB {
+  width: 22.385rem;
+  height: 28.3508rem;
+  position: relative;
+  left: 0;
+  top: 0.8862rem;
+  background-size: 146.823% 135.238%;
+  background-position: -3.7189rem -5.543rem;
+  background-image: url('../assets/stilo-tattoo-pen-pearly-pink-removebg-preview-2-v5m.png');
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-31pv-5V1 {
+  margin: 5.3rem 3.1rem 5.6rem 0rem;
+  width: 43rem;
+  height: calc(100% - 10.9rem);
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-31pv-5V1 .shop-now-jZZ {
+  margin-right: 14.7rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #ffffff;
+  font-family: Kavoon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-31pv-5V1 .best-rotary-tattoo-pen-opK {
+  margin-left: 4rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-31pv-5V1 .frame-96-7KD {
+  margin: 0rem 9.2rem 0rem 8rem;
+  width: calc(100% - 17.2rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-6vwt-59Z {
+  margin-bottom: 11.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-6vwt-59Z .diwali-sale-PR9 {
+  margin: 0rem 2rem 2.4rem 0rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 0.6;
+  color: #4600aa;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .auto-group-tgoh-np7 .group-93-65M .auto-group-6vwt-59Z .up-to-30-off-qH9 {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ff0000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw {
+  width: 151.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .group-94-DYb {
+  box-sizing: border-box;
+  padding: 6.1rem 47.9rem 6rem 48rem;
+  width: 151.2rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  background-color: #d9d9d9;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .group-94-DYb .group-95-SRM {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .group-94-DYb .group-95-SRM .flat-50-off-mCj {
+  margin: 0rem 24.2rem 4.5rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #121212;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .group-94-DYb .group-95-SRM .on-your-first-tattoo-booking-dkj {
+  margin: 0rem 0rem 2.5rem 7rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Kalam, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .group-94-DYb .group-95-SRM .frame-97-4b9 {
+  margin: 0 19.8rem;
+  width: calc(100% - 39.6rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .tattooed-man-with-headphones-against-blue-sky-ocean-1-Cqm {
+  width: 31.1rem;
+  height: 31.7rem;
+  position: relative;
+  left: 100rem;
+  top: 1.2rem;
+  background-size: 100% 144.94%;
+  background-position: 0 -14.2459rem;
+  background-image: url('../assets/tattooed-man-with-headphones-against-blue-sky-ocean-1-Ft3.png');
+}
+.component-1-9cj .property-1default-y5y .group-96-iLw .muscular-man-with-tattoo-removebg-preview-1-cuV {
+  width: 24.8rem;
+  height: 32.9rem;
+  position: relative;
+  left: 24.3rem;
+  top: 0;
+  background-size: 164.516% 186.018%;
+  background-position: -7.4rem 0;
+  background-image: url('../assets/muscular-man-with-tattoo-removebg-preview-1-G6j.png');
+}
+.component-1-9cj .property-1variant2-ApX {
+  margin-right: 0.3rem;
+  box-sizing: border-box;
+  padding: 0 11.3rem;
+  height: 32.9rem;
+  cursor: pointer;
+  display: flex;
+  column-gap: 7rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y {
+  margin-bottom: 0.1rem;
+  width: 151.2rem;
+  height: calc(100% - 0.1rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .group-94-8Py {
+  box-sizing: border-box;
+  padding: 6.1rem 47.9rem 6rem 48rem;
+  width: 151.2rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  background-color: #d9d9d9;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .group-94-8Py .group-95-kgF {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .group-94-8Py .group-95-kgF .flat-50-off-Us9 {
+  margin: 0rem 24.2rem 4.5rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #121212;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .group-94-8Py .group-95-kgF .on-your-first-tattoo-booking-wEw {
+  margin: 0rem 0rem 2.5rem 7rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Kalam, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .group-94-8Py .group-95-kgF .frame-97-cM5 {
+  margin: 0 19.8rem;
+  width: calc(100% - 39.6rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .tattooed-man-with-headphones-against-blue-sky-ocean-1-wXm {
+  width: 31.1rem;
+  height: 31.7rem;
+  position: relative;
+  left: 100rem;
+  top: 1.2rem;
+  background-size: 100% 144.94%;
+  background-position: 0 -14.2459rem;
+  background-image: url('../assets/tattooed-man-with-headphones-against-blue-sky-ocean-1-Jpw.png');
+}
+.component-1-9cj .property-1variant2-ApX .group-96-q9y .muscular-man-with-tattoo-removebg-preview-1-WUP {
+  width: 24.8rem;
+  height: 32.9rem;
+  position: relative;
+  left: 24.3rem;
+  top: 0;
+  background-size: 164.516% 186.018%;
+  background-position: -7.4rem 0;
+  background-image: url('../assets/muscular-man-with-tattoo-removebg-preview-1-8CX.png');
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F {
+  margin-bottom: 0.1rem;
+  width: 151.2rem;
+  height: 30.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .rectangle-83-yWP {
+  width: 151.2rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #d9d9d9;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product-plain-studio-background1258-63884-2-sbm {
+  width: 151.2rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .removebg-preview-2-Jh5 {
+  width: 151.2rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .group-89-D3M {
+  width: 35rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 5.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .group-89-D3M .hurry--eeT {
+  margin-bottom: 3.2rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #ffffff;
+  font-family: Kavoon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .group-89-D3M .sales-end-today-kSb {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .group-89-D3M .grab-deals-before-its-over-2f1 {
+  margin-bottom: 2.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .group-89-D3M .frame-96-V2o {
+  margin: 0rem 9.5rem 0rem 9.6rem;
+  width: calc(100% - 19.1rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .online-shopping-day-sale-banner87202-1081-removebg-preview-3-CbR {
+  width: 26rem;
+  height: 24.6071rem;
+  position: relative;
+  left: 20rem;
+  top: 2.7rem;
+  background-size: 206.07% 130.641%;
+  background-position: -1.7444rem -4.1976rem;
+  background-image: url('../assets/online-shopping-day-sale-banner87202-1081-removebg-preview-3-4qM.png');
+}
+.component-1-9cj .property-1variant2-ApX .group-90-j6F .online-shopping-day-sale-banner87202-1081-removebg-preview-4-ZqH {
+  width: 26rem;
+  height: 24.6071rem;
+  position: relative;
+  left: 105.2rem;
+  top: 2.7rem;
+  background-size: 206.07% 130.641%;
+  background-position: -1.7444rem -4.1976rem;
+  background-image: url('../assets/online-shopping-day-sale-banner87202-1081-removebg-preview-4-STZ.png');
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT {
+  box-sizing: border-box;
+  padding: 0.1rem 24rem 0.1rem 26.2rem;
+  height: 30.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-j2uw-nLf {
+  margin: 0rem 3.095rem 0.514rem 0rem;
+  width: 26.6052rem;
+  height: 29.3862rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-j2uw-nLf .stilo-tattoo-pen-pearly-pink-removebg-preview-1-omZ {
+  width: 24.1631rem;
+  height: 29.3862rem;
+  position: relative;
+  left: 2.4421rem;
+  top: 0;
+  background-size: 146.823% 135.238%;
+  background-position: -4.1352rem -5.7254rem;
+  background-image: url('../assets/stilo-tattoo-pen-pearly-pink-removebg-preview-1-4rB.png');
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-j2uw-nLf .stilo-tattoo-pen-pearly-pink-removebg-preview-2-pgf {
+  width: 22.385rem;
+  height: 28.3508rem;
+  position: relative;
+  left: 0;
+  top: 0.8862rem;
+  background-size: 146.823% 135.238%;
+  background-position: -3.7189rem -5.543rem;
+  background-image: url('../assets/stilo-tattoo-pen-pearly-pink-removebg-preview-2-Zqh.png');
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-zmxk-Q95 {
+  margin: 5.3rem 3.1rem 5.6rem 0rem;
+  width: 43rem;
+  height: calc(100% - 10.9rem);
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-zmxk-Q95 .shop-now-FQb {
+  margin-right: 14.7rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #ffffff;
+  font-family: Kavoon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-zmxk-Q95 .best-rotary-tattoo-pen-jqZ {
+  margin-left: 4rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-zmxk-Q95 .frame-96-o4j {
+  margin: 0rem 9.2rem 0rem 8rem;
+  width: calc(100% - 17.2rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-3hb5-wKM {
+  margin-bottom: 11.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-3hb5-wKM .diwali-sale-y19 {
+  margin: 0rem 2rem 2.4rem 0rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 0.6;
+  color: #4600aa;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant2-ApX .group-93-vJT .auto-group-3hb5-wKM .up-to-30-off-drP {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ff0000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb {
+  margin-right: 0.3rem;
+  box-sizing: border-box;
+  padding: 0 11.3rem;
+  height: 32.9rem;
+  cursor: pointer;
+  display: flex;
+  column-gap: 7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co {
+  margin: 1.9rem 0rem 0.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.1rem 24rem 0.1rem 26.2rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-eb4b-kjy {
+  margin: 0rem 3.095rem 0.514rem 0rem;
+  width: 26.6052rem;
+  height: 29.3862rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-eb4b-kjy .stilo-tattoo-pen-pearly-pink-removebg-preview-1-aU7 {
+  width: 24.1631rem;
+  height: 29.3862rem;
+  position: relative;
+  left: 2.4421rem;
+  top: 0;
+  background-size: 146.823% 135.238%;
+  background-position: -4.1352rem -5.7254rem;
+  background-image: url('../assets/stilo-tattoo-pen-pearly-pink-removebg-preview-1-JHm.png');
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-eb4b-kjy .stilo-tattoo-pen-pearly-pink-removebg-preview-2-7MZ {
+  width: 22.385rem;
+  height: 28.3508rem;
+  position: relative;
+  left: 0;
+  top: 0.8862rem;
+  background-size: 146.823% 135.238%;
+  background-position: -3.7189rem -5.543rem;
+  background-image: url('../assets/stilo-tattoo-pen-pearly-pink-removebg-preview-2-aEK.png');
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-slgf-is9 {
+  margin: 5.3rem 3.1rem 5.6rem 0rem;
+  width: 43rem;
+  height: calc(100% - 10.9rem);
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-slgf-is9 .shop-now-wE7 {
+  margin-right: 14.7rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #ffffff;
+  font-family: Kavoon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-slgf-is9 .best-rotary-tattoo-pen-pHu {
+  margin-left: 4rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-slgf-is9 .frame-96-WAj {
+  margin: 0rem 9.2rem 0rem 8rem;
+  width: calc(100% - 17.2rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-7fjw-3ps {
+  margin-bottom: 11.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-7fjw-3ps .diwali-sale-8LX {
+  margin: 0rem 2rem 2.4rem 0rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 0.6;
+  color: #4600aa;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-93-8Co .auto-group-7fjw-3ps .up-to-30-off-Q39 {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ff0000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b {
+  margin-bottom: 0.9rem;
+  width: 151.2rem;
+  height: calc(100% - 0.9rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .group-94-xD5 {
+  box-sizing: border-box;
+  padding: 6.1rem 47.9rem 6rem 48rem;
+  width: 151.2rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  background-color: #d9d9d9;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .group-94-xD5 .group-95-nxo {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .group-94-xD5 .group-95-nxo .flat-50-off-v3R {
+  margin: 0rem 24.2rem 4.5rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #121212;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .group-94-xD5 .group-95-nxo .on-your-first-tattoo-booking-Pxb {
+  margin: 0rem 0rem 2.5rem 7rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Kalam, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .group-94-xD5 .group-95-nxo .frame-97-drw {
+  margin: 0 19.8rem;
+  width: calc(100% - 39.6rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .tattooed-man-with-headphones-against-blue-sky-ocean-1-Pjd {
+  width: 31.1rem;
+  height: 31.7rem;
+  position: relative;
+  left: 100rem;
+  top: 1.2rem;
+  background-size: 100% 144.94%;
+  background-position: 0 -14.2459rem;
+  background-image: url('../assets/tattooed-man-with-headphones-against-blue-sky-ocean-1-pxX.png');
+}
+.component-1-9cj .property-1variant3-grb .group-96-V4b .muscular-man-with-tattoo-removebg-preview-1-pK9 {
+  width: 24.8rem;
+  height: 32.9rem;
+  position: relative;
+  left: 24.3rem;
+  top: 0;
+  background-size: 164.516% 186.018%;
+  background-position: -7.4rem 0;
+  background-image: url('../assets/muscular-man-with-tattoo-removebg-preview-1-ioy.png');
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP {
+  margin: 1.1rem 0rem 1.7rem 0rem;
+  width: 151.2rem;
+  height: calc(100% - 2.8rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .rectangle-83-qtT {
+  width: 151.2rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #d9d9d9;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product-plain-studio-background1258-63884-2-9PM {
+  width: 151.2rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .removebg-preview-2-Bqq {
+  width: 151.2rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .group-89-THZ {
+  width: 35rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 5.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .group-89-THZ .hurry--LcF {
+  margin-bottom: 3.2rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #ffffff;
+  font-family: Kavoon, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .group-89-THZ .sales-end-today-3Fm {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 0.75;
+  color: #ffffff;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .group-89-THZ .grab-deals-before-its-over-5iF {
+  margin-bottom: 2.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .group-89-THZ .frame-96-BFV {
+  margin: 0rem 9.5rem 0rem 9.6rem;
+  width: calc(100% - 19.1rem);
+  height: 5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #121212;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff400;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .online-shopping-day-sale-banner87202-1081-removebg-preview-3-iud {
+  width: 26rem;
+  height: 24.6071rem;
+  position: relative;
+  left: 20rem;
+  top: 2.7rem;
+  background-size: 206.07% 130.641%;
+  background-position: -1.7444rem -4.1976rem;
+  background-image: url('../assets/online-shopping-day-sale-banner87202-1081-removebg-preview-3-CnB.png');
+}
+.component-1-9cj .property-1variant3-grb .group-90-nQP .online-shopping-day-sale-banner87202-1081-removebg-preview-4-gV5 {
+  width: 26rem;
+  height: 24.6071rem;
+  position: relative;
+  left: 105.2rem;
+  top: 2.7rem;
+  background-size: 206.07% 130.641%;
+  background-position: -1.7444rem -4.1976rem;
+  background-image: url('../assets/online-shopping-day-sale-banner87202-1081-removebg-preview-4-hXM.png');
+}
